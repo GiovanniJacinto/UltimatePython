@@ -7,3 +7,5 @@ print(nombre1,nombre_curso, NOMBRE_CURSO, NoMbRe_CuRsO, NombreCurso)
 alumnos = 5000
 puntaje = 9.9
 publicado = False
+
+Bebe = "Giovanni Leonel"
